@@ -16,4 +16,5 @@ Specifically, we will be answering questions such as:
 
 •By exploring these questions, we hope to provide valuable insights into the usage patterns of the Ford Go Bike service .
 
- “Where there is data smoke, there is business fire”
+
+                                     “Where there is data smoke, there is business fire”
